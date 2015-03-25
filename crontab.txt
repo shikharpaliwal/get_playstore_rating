@@ -1,0 +1,1 @@
+0 */3 * * * /usr/bin/python ~/Documents/python/get_tinyowl_rating.py
